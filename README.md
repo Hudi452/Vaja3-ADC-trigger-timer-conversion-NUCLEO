@@ -7,6 +7,9 @@ TIMER2 KONFIGURACIJA:\
 ![TIM2](https://github.com/Hudi452/Vaja3-ADC-trigger-timer-conversion-NUCLEO/blob/main/TIM_konfig1.PNG)
 ![TIM2](https://github.com/Hudi452/Vaja3-ADC-trigger-timer-conversion-NUCLEO/blob/main/TIM_konfig2.PNG)
 
+ADC1 KONFIGURACIJA:\
+![ADC1](https://github.com/Hudi452/Vaja3-ADC-trigger-timer-conversion-NUCLEO/blob/main/ADC_konfig1.PNG)
+
 ODGOVORI NA VPRAŠANJA:\
 b) Pod Analog so 3 ADC pretvorniki.\
 c) Naslov dodeljenega pina: PA0\
