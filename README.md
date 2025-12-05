@@ -5,7 +5,7 @@ PINOUT KONFIGURACIJA:\
 
 TIMER2 KONFIGURACIJA:\
 ![TIM2](https://github.com/Hudi452/Vaja3-ADC-trigger-timer-conversion-NUCLEO/blob/main/TIM_konfig1.PNG)
-
+![TIM2](https://github.com/Hudi452/Vaja3-ADC-trigger-timer-conversion-NUCLEO/blob/main/TIM_konfig2.PNG)
 
 ODGOVORI NA VPRAŠANJA:\
 b) Pod Analog so 3 ADC pretvorniki.\
