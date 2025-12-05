@@ -4,6 +4,7 @@ PINOUT KONFIGURACIJA:\
 ![pinout](https://github.com/Hudi452/Vaja3-ADC-trigger-timer-conversion-NUCLEO/blob/main/Konfiguracija%20CubeMX.PNG)
 
 TIMER2 KONFIGURACIJA:\
+![TIM2](https://github.com/Hudi452/Vaja3-ADC-trigger-timer-conversion-NUCLEO/blob/main/TIM_konfig1.PNG)
 
 
 ODGOVORI NA VPRAŠANJA:\
