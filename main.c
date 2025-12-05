@@ -332,6 +332,7 @@ void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef* hadc)
 {
 UNUSED(hadc);
 adcVal = HAL_ADC_GetValue(&hadc1);
+HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
 }
 
 /* USER CODE END 4 */
@@ -367,3 +368,4 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
